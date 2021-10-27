@@ -1,7 +1,7 @@
 "use strict"
 
 module.exports = {
-  "extends": "stylelint-config-wordpress/scss",
+  "extends": "@wordpress/stylelint-config/scss",
   "plugins": [ "stylelint-order" ],
   "rules": {
     "at-rule-empty-line-before": [

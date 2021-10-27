@@ -1,6 +1,6 @@
 {
   "name": "@godaddy-wordpress/stylelint-config",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A repository for CSS and Sass linting rules being used in GoDaddy WordPress projects.",
   "keywords": [
     "godaddy",
@@ -15,13 +15,13 @@
     "access": "public"
   },
   "peerDependencies": {
-    "stylelint": "^12.0.0"
+    "stylelint": "^13.13.1"
   },
   "dependencies": {
     "stylelint-order": "4.1.0",
-    "stylelint-config-wordpress": "^17.0.0"
+    "@wordpress/stylelint-config": "^19.0.5"
   },
   "devDependencies": {
-    "stylelint": "^12.0.0"
+    "stylelint": "^13.13.1"
   }
 }
