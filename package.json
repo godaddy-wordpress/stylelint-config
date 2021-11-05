@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "stylelint-order": "4.1.0",
-    "@wordpress/stylelint-config": "^19.0.5"
+    "@wordpress/stylelint-config": "^19.1.0"
   },
   "devDependencies": {
     "stylelint": "^13.13.1"

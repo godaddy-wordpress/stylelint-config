@@ -13,7 +13,6 @@ module.exports = {
       }
     ],
 
-    "function-calc-no-invalid": null,
     "function-url-quotes": "never",
 
     "max-line-length": null,
