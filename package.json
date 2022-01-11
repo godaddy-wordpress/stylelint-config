@@ -15,13 +15,13 @@
     "access": "public"
   },
   "peerDependencies": {
-    "stylelint": "^13.13.1"
+    "stylelint": "^14.2.0"
   },
   "dependencies": {
-    "stylelint-order": "4.1.0",
+    "stylelint-order": "5.0.0",
     "@wordpress/stylelint-config": "^19.1.0"
   },
   "devDependencies": {
-    "stylelint": "^13.13.1"
+    "stylelint": "^14.2.0"
   }
 }
