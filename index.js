@@ -18,6 +18,7 @@ module.exports = {
     "max-line-length": null,
 
     "no-descending-specificity": null,
+    "no-invalid-position-at-import-rule": null,
 
     "number-leading-zero": "always",
 
@@ -30,15 +31,15 @@ module.exports = {
       }
     ],
 
+    "scss/at-import-partial-extension": null,
+    "scss/no-duplicate-mixins": null
+    "scss/no-global-function-names": null,
     "scss/selector-no-redundant-nesting-selector": null,
 
     "selector-class-pattern": null,
     "selector-id-pattern": null,
     "selector-type-no-unknown": null,
-    "scss/no-global-function-names": null,
+
     "value-keyword-case": null,
-    "no-invalid-position-at-import-rule": null,
-    "scss/at-import-partial-extension": null,
-    "scss/no-duplicate-mixins": null
   }
 };
