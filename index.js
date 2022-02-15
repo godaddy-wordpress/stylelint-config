@@ -40,6 +40,6 @@ module.exports = {
     "selector-id-pattern": null,
     "selector-type-no-unknown": null,
 
-    "value-keyword-case": null,
+    "value-keyword-case": ["lower", {"camelCaseSvgKeywords": true}]
   }
 };
