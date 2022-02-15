@@ -32,7 +32,6 @@ module.exports = {
     ],
 
     "scss/at-import-partial-extension": null,
-    "scss/no-duplicate-mixins": null,
     "scss/no-global-function-names": null,
     "scss/selector-no-redundant-nesting-selector": null,
 
@@ -40,6 +39,11 @@ module.exports = {
     "selector-id-pattern": null,
     "selector-type-no-unknown": null,
 
-    "value-keyword-case": ["lower", {"camelCaseSvgKeywords": true}]
+    "value-keyword-case": [
+      "lower",
+      {
+        "camelCaseSvgKeywords": true
+      }
+    ],
   }
 };
