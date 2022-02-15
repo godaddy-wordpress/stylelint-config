@@ -32,7 +32,7 @@ module.exports = {
     ],
 
     "scss/at-import-partial-extension": null,
-    "scss/no-duplicate-mixins": null
+    "scss/no-duplicate-mixins": null,
     "scss/no-global-function-names": null,
     "scss/selector-no-redundant-nesting-selector": null,
 
